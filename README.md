@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seungjelee
 - 👀 I’m Android application developer and Product Owner.
-- 🌱 I’m currently learning Unity engine and C#
+- 🌱 I’m currently learning Unity engine and C#. Only in private repository
 - 💞️ I’m interest in GO language and Defi technology (blockchain, crypto crruncy, NFT...)
 - 📫 seungjemail@gmail.com
 
